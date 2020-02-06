@@ -1,0 +1,46 @@
+.main-content-portfolio   {
+    width: 960px;
+    height: 700px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px;
+    border: solid 1px #4aaaa5;
+  }
+
+  .gallery  {
+    margin: auto;
+    float: left;  
+    z-index: 1;
+} 
+
+  .box {
+    position: relative;
+    padding: 0;
+    float: left;
+    z-index: 2;
+    width: 250px;
+    margin: 10px;
+  
+}
+
+  .placeHolder {
+    position: relative;
+    width: 100%;
+    height: 150px;
+    padding: 40px;
+}
+
+.placeName {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    position: absolute;
+    background-color: #4aaaa5;
+    width: 100%;
+    height: 40px;
+    top: 145px;
+    bottom: 20px;
+    left: 40px;
+    text-align: center;
+    font-size: 20px;
+    color:  #ffffff;
+
+}

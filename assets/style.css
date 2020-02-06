@@ -99,31 +99,6 @@ footer {
     display: table;
   }
 
-  /* Contact Page stylings */
-
-  input {
-      width: 100%;
-      padding: 5px;
-      border: 2px solid #ccc;
-      border-radius: 4px;
-      margin: 10px 0px;
-  }
-
-  button {
-      padding: 5px 20px;
-      background-color: #4aaaa5;
-      color: white;
-      font-size: 16px;
-  }
- 
-  textarea {
-      width: 100%;
-      height: 150px;
-      margin: 10px 0px;
-      border: 2px solid #ccc;
-      border-radius: 4px;
-
-  }
 
   /* Portfolio Page stylings */
 
