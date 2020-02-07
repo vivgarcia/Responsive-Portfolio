@@ -21,7 +21,7 @@ nav {
   .box {
     position: relative;
     padding: 0;
-    float: left;
+    /* float: left; */
     z-index: 2;
     width: 250px;
     margin: 10px;
@@ -75,8 +75,15 @@ nav {
     width: 40%;
   }
 
+  .main-content-portfolio {
+    margin: 0;
+  }
   hr {
     width: 87.5%;
+  }
+
+  .gallery {
+    width: 75%
   }
 
 }
