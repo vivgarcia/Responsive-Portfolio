@@ -116,6 +116,10 @@ footer {
 }
 
 @media (max-width: 640px){
+    nav {
+        position: relative;
+    }
+    
     #name {
         width: 100%;
     }
@@ -126,8 +130,8 @@ footer {
         background-color: #fff;
         padding: 20px; 
         margin: 0 auto; 
-    
     }
+
     .main-content {
         margin-top: 40px;
         width: 100%;

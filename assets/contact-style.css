@@ -21,3 +21,17 @@ textarea {
     border-radius: 4px;
 
 }
+
+@media (max-width: 960px){
+    form{
+        width: 90%;
+    }
+}
+
+@media (max-width: 768px){
+
+}
+
+@media (max-width: 640px){
+
+}
