@@ -2,15 +2,16 @@
     width: 960px;
     height: 700px;
     margin: 0 auto;
-    background-color: #fff;
+    /* background-color: #fff;
     padding: 20px;
-    border: solid 1px #4aaaa5;
+    border: solid 1px #4aaaa5; */
   }
 
   .gallery  {
     margin: auto;
     float: left;  
     z-index: 1;
+    width: 100%
 } 
 
   .box {
